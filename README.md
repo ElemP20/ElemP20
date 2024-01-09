@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ElemP20
 - 👀 I’m interested in AI, Machine Learning and Game Development
-- 🌱 I’m currently learning Computer Science in University of the Philippines Baguio
+- 🌱 I’m currently learning Computer Science in University
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
